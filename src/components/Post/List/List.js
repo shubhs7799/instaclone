@@ -1,14 +1,14 @@
 import React, { useState, useContext } from "react";
-import Container from 'react-bootstrap/Container';
-import Navbar from 'react-bootstrap/Navbar';
-import Logo from '../../../images/circle_icon.svg';
-import Camera from '../../../images/camera_icon.png';
+// import Container from 'react-bootstrap/Container';
+// import Navbar from 'react-bootstrap/Navbar';
+// import Logo from '../../../images/circle_icon.svg';
+// import Camera from '../../../images/camera_icon.png';
 import heart from '../../../images/heart_icon.png';
 import rocket from '../../../images/rocket_icon.jpg';
 import Card from 'react-bootstrap/Card';
-import Form from 'react-bootstrap/Form';
-import InputGroup from 'react-bootstrap/InputGroup';
-import Button from 'react-bootstrap/Button';
+// import Form from 'react-bootstrap/Form';
+// import InputGroup from 'react-bootstrap/InputGroup';
+// import Button from 'react-bootstrap/Button';
 import './List.css';
 
 import Header from "../Header/Header";
